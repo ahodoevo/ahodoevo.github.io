@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ahodoevo.github.io/aGs/sitemap_index.txt
+Sitemap: https://ahodoevo.github.io/nID/sitemap_index.txt
+Sitemap: https://ahodoevo.github.io/prW/sitemap_index.txt
+Sitemap: https://ahodoevo.github.io/rMn/sitemap_index.txt
